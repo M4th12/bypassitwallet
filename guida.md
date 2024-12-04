@@ -22,3 +22,5 @@
 - Dopodiche andate nel file **target.txt** e metterci dentro il nome del pacchetto dell'app iO. **it.pagopa.io.app**
 
 - Ora dovrebbe essere tutto funzionante
+
+(Fra poco carico anche degli screenshot e video per semplicare la guida)
