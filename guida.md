@@ -15,7 +15,7 @@
 
 - Dopo il riavvio, tramite un file manager con accesso root, io uso [FX](https://play.google.com/store/apps/details?id=nextapp.fx&hl=it) andate nella seguente directory
 
-- data/adb/tricky_store/
+- [data/adb/tricky_store/](video/fxrootetrickystore.mp4)
 
 - All'interno dovete incollare il file **keybox.xml**
 
@@ -24,3 +24,11 @@
 - Ora dovrebbe essere tutto funzionante
 
 (Fra poco carico anche degli screenshot e video per semplicare la guida)
+
+## FAQ
+
+- Per [avere accesso root con FX](video/fxrootetrickystore.mp4) basta andare nelle Impostazioni, scorrere fino a Developer/Root e ablilitare l'opzione
+
+- Per [abilitare Zygisk](video/zygisk.mp4) basta andare nelle Impostazioni di Magisk e attivare l'opzione
+
+- Se dopo aver installato Magisk alcune app rilevano che avete il root andate in [Impostazioni > Configura Lista Blocco](video/blocklist.mp4) e spuntate tutte le app che lo rilevano, sopratutto Google Play Services
