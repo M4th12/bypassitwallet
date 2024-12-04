@@ -4,7 +4,7 @@
 
 - Avere **Magisk installato** e anche **Zygisk** abilitato.
 
-- Avere una keybox (anche giá bannata), bisogna che vi procurate un file keybox.xml. Se github mi lascia carico quello che ho io
+- Avere una keybox (anche giá bannata), bisogna che vi procurate un file keybox.xml. Altrimenti scaricate [questa](video/Chiavescatola.zip)
 
 
 ## Steps
