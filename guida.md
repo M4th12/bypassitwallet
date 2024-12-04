@@ -1,4 +1,4 @@
-# Questa e una guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
+# Questa é una guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
 
 ## Requisiti
 
