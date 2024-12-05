@@ -19,7 +19,7 @@
 
 - All'interno dovete incollare il file **keybox.xml**
 
-- Dopodiche andate nel file **target.txt** e metterci dentro il nome del pacchetto dell'app iO. **it.pagopa.io.app**
+- Dopodiche andate nel file **target.txt** e metterci dentro il nome del pacchetto dell'app iO. **it.pagopa.io.app** (nel caso abbiate un device con TEE broken, ad esempio un Oneplus, va aggiunto un punto esclamativo "**!**" alla fine della riga, che quindi diventa **it.pagopa.io.app!**)
 
 - Ora dovrebbe essere tutto funzionante
 
