@@ -1,5 +1,5 @@
 # Questa é una guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
-(Aggiornamento, in qualche modo questo metodo sembra non piu funzionare, proverò a vedere se trovo una soluzione)
+(Aggiornamento, potrebbere esserci un [problema con l'app iO di base](https://www.dday.it/redazione/51379/app-io-e-android-i-documenti-sullo-smartphone-non-vanno-nemmeno-con-alcuni-dispositivi-sicuri-ecco-perche), aspettiamo i prossimi aggiornamenti)
 ## Requisiti
 
 - Avere **Magisk installato** e anche **Zygisk** abilitato.
