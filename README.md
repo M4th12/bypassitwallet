@@ -24,7 +24,7 @@
 
 - Ora dovrebbe essere tutto funzionante
 
-(Per vedere se effettivamente ha funzionato scaricate [KeyAttestation](https://github.com/vvb2060/KeyAttestation/releases) é se tutto e corretto dovreste vedere [questo](video/ok.png))
+(Per vedere se effettivamente ha funzionato scaricate [KeyAttestation](https://github.com/vvb2060/KeyAttestation/releases) e se tutto è corretto dovreste vedere [questo](video/ok.png))
 
 ## FAQ
 
