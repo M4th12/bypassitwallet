@@ -4,7 +4,7 @@
 Testata su un Mi A3 con crDroid, ancora funzionante 01/05/2025
 ## Requisiti
 
-- Avere **Magisk installato** e anche **Zygisk** abilitato o **KSU** con **Zygisk-Next** installato
+- Avere **Magisk installato** (preferibilmente la versione Canary o beta, in quanto viene rilevata con più difficoltà) e anche **Zygisk** abilitato o **KSU** con **Zygisk-Next** installato
 
 ## Moduli necessari
 
