@@ -1,4 +1,4 @@
-# Questa é una guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
+# Guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
 ⚠️ Attenzione: Questa guida non é certificata che funzioni al 100% su tutti i dispositivi o Custom ROM. ⚠️
 ## Requisiti
 
@@ -14,7 +14,7 @@
 
 ## Steps
 
-- Installateli in Magisk come messi in ordine qui sopra e poi riavviate.
+- Installateli in Magisk come messi in ordine qui sopra e poi riavviate. Se avete KSU, aasicutatevi di aver già installato Zygisk-Next.
 
 - Aprite KSU Web UI e cliccate Tricky Store, da li selezionate Play Store, Play Services e l'app iO (Anche l'app KeyAttestation se volete verificare se la procedura ha funzionato)
 
