@@ -16,9 +16,11 @@ Testata su un Mi A3 con crDroid, ancora funzionante 01/05/2025
 
 ## Steps
 
-- Installateli in Magisk come messi in ordine qui sopra e poi riavviate. Se avete KSU, aasicutatevi di aver già installato Zygisk-Next.
+- Installateli in Magisk come messi in ordine qui sopra e poi riavviate. Se avete KSU, assicutatevi di aver già installato Zygisk-Next.
 
-- Aprite KSU Web UI e cliccate Tricky Store, da li selezionate Play Store, Play Services e l'app iO (Anche l'app KeyAttestation se volete verificare se la procedura ha funzionato)
+- Dopo il riavvio aprite Magisk e cliccate dove c'è il moduluto Play Integrity Fix il tasto "Action" su KSU invece cliccate il tasto per aprire la WebUI del modulo e fate "Fetch new pif"
+
+- Aprite KSU Web UI e cliccate Tricky Store (da KSU basta fare come per Play Integrity Fix), da li selezionate Play Store, Play Services e l'app iO (Anche l'app KeyAttestation se volete verificare se il bootloader risulta bloccato)
 
 - Dopo cliccate sul menu hamburger e selezionate "Imposta keybox Valida" e dopo "Imposta patch di sicurezza", nel menu che vi si aprirá premete "Ottieni data patch di sicurezza" e poi salva. [video](video/tricky.mp4)
 
