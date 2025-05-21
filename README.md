@@ -1,7 +1,7 @@
 # Guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
 ⚠️ Attenzione: Questa guida non é certificata che funzioni al 100% su tutti i dispositivi o Custom ROM. ⚠️
 
-Testata su un Mi A3 con crDroid, ancora funzionante 01/05/2025
+Testata su un Mi A3 con crDroid, non piú funzionante 21/05/2025 con i dispositivi ad Android 13+, per tutti gli altri la guida dovrebbe funzionare lo stesso
 ## Requisiti
 
 - Avere **Magisk installato** (preferibilmente la versione Canary o beta, in quanto viene rilevata con più difficoltà) e anche **Zygisk** abilitato o **KSU** con **Zygisk-Next** installato
