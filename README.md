@@ -23,7 +23,7 @@ Da questo mese Google ha aggiornato il modo in cui viene verificata l'integrità
 
 - Dopo il riavvio aprite Magisk, nella sezione moduli dove c'è il moduluto Play Integrity Fork cliccate il tasto "Action", stessa cosa anche per KSU
   
-	- **Questo passaggio é solo per chi ha Android 13 o superiore**, se non avete queste versioni saltate questo passaggio o potete tentare ma molto probabilmete non riuscirete ad ottenere tutte le spunte.
+	- **Questo passaggio fatelo se non vi funziona con il primo**, se non avete queste versioni saltate questo passaggio o potete tentare ma molto probabilmete non riuscirete ad ottenere tutte le spunte.
    
 	- ⚠️ AVVISO il PlayStore con questa modifica sará quasi inutilizzabile (per il momento) come alternativa potete usare [Aurora Store](https://f-droid.org/it/packages/com.aurora.store/) ⚠️
   - Dopo aver premuto il tasto Action bisogna dirigersi nella cartella /data/adb/modules/playintegrityfix e cercare il file custom.pif.json
