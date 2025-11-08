@@ -11,7 +11,7 @@ Da questo mese Google ha aggiornato il modo in cui viene verificata l'integrità
 
 ## Moduli necessari
 
-- [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
+- [Play Integrity Fork-Inject](https://github.com/KOWX712/PlayIntegrityFix/releases)
 - [NoHello](https://github.com/MhmRdd/NoHello/releases)
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases)
 - [Tricky Store Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/)
