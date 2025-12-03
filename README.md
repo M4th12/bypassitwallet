@@ -32,7 +32,7 @@ Da giugno Google ha aggiornato il modo in cui viene verificata l'integrità del 
 
 - Aprite KSU Web UI e cliccate Tricky Store (da KSU identico), da li selezionate Play Store, Play Services e l'app iO (Anche l'app KeyAttestation se volete verificare se il bootloader risulta bloccato)
 
-- Dopo cliccate sul menu hamburger e selezionate "Keybox > Valid". [video](video/tricky.mp4)
+- Dopo cliccate sul menu hamburger e selezionate "Keybox > Valid".
 
 - Se alcune app rilevano Magisk andate in [Impostazioni > Configura Lista Blocco](video/blocklist.mp4) e spuntate tutte le app che lo rilevano, soprattutto Google Play Service, Play Store e iO. Su KSU assicuratevi di aver attivato l'opzione "Scollega moduli di default".
   
