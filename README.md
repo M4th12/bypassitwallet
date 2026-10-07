@@ -1,9 +1,9 @@
-# Guida su come far funzionare IT-Wallet su dispositivi con bootloader sbloccato o con custom rom
+# Guida per ripristiano funzionalita' IT-Wallet su dispositivi con bootloader sbloccato o Custom ROM
 ⚠️ Attenzione: Questa guida non é certificata che funzioni al 100% su tutti i dispositivi o ROM. ⚠️
 
 Testata su Poco F2 Pro con LineageOS 23.2, funzionante 07/10/2026.
 
-Da giugno Google ha aggiornato il modo in cui viene verificata l'integrità del dispositivo. Dispositivi con Android 13 o superiore potrebbero fallire più facilmente questo fix.
+Da giugno 2025 Google ha aggiornato il modo in cui viene verificata l'integrità del dispositivo. Dispositivi con Android 13 o superiore potrebbero fallire più facilmente questo fix.
 
 ## Requisiti
 
@@ -11,8 +11,8 @@ Da giugno Google ha aggiornato il modo in cui viene verificata l'integrità del 
 
 ## Moduli necessari
 
-- [Play Integrity Fix Inject](https://github.com/osm0sis/PlayIntegrityFork/releases)
 - [ReZygisk](https://github.com/PerformanC/ReZygisk/releases)
+- [Play Integrity Fix Inject](https://github.com/osm0sis/PlayIntegrityFork/releases)
 - [Specter](https://github.com/dpejoh/specter/releases)
 
 ## Opzionali
@@ -22,7 +22,7 @@ Da giugno Google ha aggiornato il modo in cui viene verificata l'integrità del 
 
 ## Passaggi
 
-- Installateli in ordine come qui sopra e poi riavviate. Se avete KSU o Apatch, assicutatevi di aver già installato [ReZygisk](https://github.com/PerformanC/ReZygisk/releases).
+- Installateli in ordine come qui sopra e poi riavviate.
 
 - Dopo il riavvio aprite il vostro root manager, nella sezione moduli dove c'è il moduluto Play Integrity Fix cliccate il tasto "Action", vi si aprira' un interfaccia web
 
