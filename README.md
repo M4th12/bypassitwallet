@@ -1,4 +1,4 @@
-# Guida per ripristiano funzionalita' IT-Wallet su dispositivi con bootloader sbloccato o Custom ROM
+# Guida per ripristino funzionalita' IT-Wallet su dispositivi con bootloader sbloccato o Custom ROM
 ⚠️ Attenzione: Questa guida non é certificata che funzioni al 100% su tutti i dispositivi o ROM. ⚠️
 
 Testata su Poco F2 Pro con LineageOS 23.2, funzionante 07/10/2026.
